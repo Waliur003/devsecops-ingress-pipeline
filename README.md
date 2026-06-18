@@ -33,6 +33,7 @@ Manual code deployment patterns and standard software delivery frameworks consis
 ---
 
 ## Architecture Diagram
+<img width="1169" height="827" alt="Architecture Diagram" src="https://github.com/user-attachments/assets/fc099e30-3521-453d-b628-9f760d8ba6e4" />
 
 ---
 
